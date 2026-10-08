@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# TODO : ajouter l'URL absolue du sitemap lorsque le domaine officiel sera connu.
